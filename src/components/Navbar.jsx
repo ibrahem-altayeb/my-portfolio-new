@@ -3,7 +3,7 @@ import { FaBars, FaTimes, FaGithub } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { Link } from "react-scroll";
-import CV from "../assets/Mortada_Emad_Frontend_CV.pdf";
+import CV from "../assets/Cv ibrahim altayeb.pdf";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -106,21 +106,25 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
               className="flex justify-between items-center w-full text-white "
-              href="https://github.com/rida192/"
+              href="https://github.com/ibrahem-altayeb"
               target="_blank"
             >
               Github <FaGithub size={30} />
             </a>
           </li>
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
-            <a
-              className="flex justify-between items-center w-full text-white "
-              href="mailto:rida19974@gmail.com"
-              target="_blank"
-            >
-              Email <HiOutlineMail size={30} />
-            </a>
-          </li>
+         
+<li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
+  <a
+    className="flex justify-between items-center w-full text-white"
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=ibrahim.s.altayeb@gmail.com"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    Email <HiOutlineMail size={30} />
+  </a>
+</li>
+
+
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-white "

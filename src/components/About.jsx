@@ -14,14 +14,11 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className=" text-4xl font-bold">
-            <p>Hello I'm Mortada nice to meet you, enjoy the journey.</p>
+            <p>Hello, I'm Ibrahim. Nice to meet you!</p>
           </div>
           <div>
             <p>
-              I am passionate about building excellent responsive web
-              application. I am specialized in creating websites for clients
-              ranging from individuals and small-businesses all the way to large
-              enterprise corporations.
+              I'm a passionate Front-End Developer who enjoys creating responsive, modern, and user-friendly web applications. I love turning ideas into functional and engaging digital experiences, and I'm always learning and improving my skills through real-world projects.
             </p>
           </div>
         </div>

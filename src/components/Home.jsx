@@ -6,14 +6,12 @@ const Home = () => {
       {/* Container */}
       <div className="container px-8 flex flex-col justify-center h-full">
         <p className="mt-4">Hi there, my name is</p>
-        <h1 className="text-4xl sm:text-7xl font-bold ">Mortada Emad</h1>
+        <h1 className="text-4xl sm:text-7xl font-bold ">Ibrahim Altayeb</h1>
         <h2 className="text-4xl sm:text-7xl font-bold ">
           I'm a Front-End Developer.
         </h2>
         <p className=" py-4 max-w-[700px]">
-          I’m a Front-End Developer specializing in building exceptional digital
-          experiences. Currently, I’m focused on building responsive web
-          applications.
+          I’m a Front-End Developer focused on building responsive, modern, and user-friendly web applications.
         </p>
         <div className="flex items-center justify-center sm:justify-start">
           <Link
